@@ -1,0 +1,6 @@
+# .gitignore
+.env
+.token_cache.bin
+__pycache__/
+*.pyc
+.venv/
